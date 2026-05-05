@@ -1,14 +1,18 @@
 <!-- HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sachin%20Sharma&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sachin%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 ---
 
+<div align="center">
+
 # 👋 Hello, I'm Sachin Sharma
 
 💻 **Software Engineer | AI & ML | Data Analysis**  
-📍 Jaipur, India  
+📍 Jaipur, India 🇮🇳  
+
+</div>
 
 ---
 
@@ -18,8 +22,10 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin48812&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin48812&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachin48812&theme=tokyonight" height="180"/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin48812&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachin48812&theme=tokyonight" height="170"/>
 
 </div>
 
@@ -29,9 +35,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin48812&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sachin48812&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin48812&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sachin48812&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
 
 </div>
 
@@ -41,8 +46,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachin48812&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachin48812&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachin48812&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachin48812&theme=tokyonight" height="170"/>
 
 </div>
 
@@ -52,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,cpp,react,nodejs,express,mongodb,mysql,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,cpp,react,nodejs,express,mongodb,mysql,python,git,github,vscode&perline=6" />
 
 </div>
 
@@ -62,19 +67,19 @@
 
 <div align="center">
 
-<a href="#">
+<a href="https://instagram.com/yourusername">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://linkedin.com/in/yourusername">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
+<a href="https://youtube.com/@yourusername">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
 
-<a href="#">
+<a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -86,7 +91,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin48812&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin48812&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sachin48812/sachin48812/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
